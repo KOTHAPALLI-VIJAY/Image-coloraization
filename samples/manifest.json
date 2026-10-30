@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sample_1_living_room",
+    "filename": "sample_1_living_room.png",
+    "title": "Cozy Living Room & Interior",
+    "width": 640,
+    "height": 426,
+    "src": "/api/samples/sample_1_living_room.png"
+  },
+  {
+    "id": "sample_2_street_life",
+    "filename": "sample_2_street_life.png",
+    "title": "City Street & Architecture",
+    "width": 375,
+    "height": 500,
+    "src": "/api/samples/sample_2_street_life.png"
+  },
+  {
+    "id": "sample_3_kitchen_dining",
+    "filename": "sample_3_kitchen_dining.png",
+    "title": "Vintage Kitchen & Dining",
+    "width": 640,
+    "height": 425,
+    "src": "/api/samples/sample_3_kitchen_dining.png"
+  },
+  {
+    "id": "sample_4_outdoor_market",
+    "filename": "sample_4_outdoor_market.png",
+    "title": "Outdoor Scene & Vehicles",
+    "width": 640,
+    "height": 427,
+    "src": "/api/samples/sample_4_outdoor_market.png"
+  }
+]
