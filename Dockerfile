@@ -32,3 +32,4 @@ ENV PORT=8000
 ENV TF_ENABLE_ONEDNN_OPTS=0
 
 CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT}"]
+
