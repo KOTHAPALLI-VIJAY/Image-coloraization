@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+# dist (tracked so Render Python Web Service can host the pre-built SPA without Node)
 dist-ssr
 *.local
 
